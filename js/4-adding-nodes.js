@@ -30,7 +30,7 @@
 var linki = document.getElementsByTagName('a');
 
 
-for(var i =0; i<linki.length; i++){
+for(var i =0; i<linki.length; i++) {
    
     var br = document.createElement('br');
    
@@ -40,6 +40,9 @@ for(var i =0; i<linki.length; i++){
        
     console.log(linki[i]);
 }
+
+
+
 
 // instertBefore(co, gdzie) - dodaje childa
 
