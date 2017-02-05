@@ -1,10 +1,8 @@
-* {	
-	font-family: Lato;
-    background-color: #303030;
+html {
+   font-size: 16px;
+   color: #fff;
+   background-color: #303030;
+   font-family: Lato;
 }
-
-body {
-    font-size: 16px;
-	color: #fff;
-}
-
+a{color: #ff0;}
+a:hover{color: #ff7;}
