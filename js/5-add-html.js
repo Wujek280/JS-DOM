@@ -4,7 +4,7 @@
 var mainHeader = document.getElementById('main-header');
 
    mainHeader.innerHTML = " Treść nagłówka ";
-   mainHeader.style.color = "#c00";
+   mainHeader.style.backgroundColor = "#c00";
 
 
 //zmiana pierwszego linka // 
